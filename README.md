@@ -1,9 +1,9 @@
 # Insiders
 ## _Trilha de conhecimento Insiders 2022_
 
-### Starter II 
+## Starter II 
 
--> Programação Orientada a Objetos (POO) 
+### -> Programação Orientada a Objetos (POO) 
 - Lógica de programação e algoritmos; 
 - Sintaxe da linguagem Java; 
 - Classes, atributos e métodos;
@@ -21,7 +21,7 @@
 - Acesso ao banco de dados com JPA / Hibernate; 
 - Gerenciamento de dependência com Maven; 
 - Acesso so banco de dados com Spring Data JPA; 
-- Acesso ao banco de dados não relacional com Spring Data MongoDB; 
+- Acesso ao banco de dados não relacional com Spring Data MongoDB.
 
 ### -> Git + Github 
 
@@ -32,7 +32,7 @@
 - Repositórios locais e remotos; 
 - Criação de branches e merges;
 - Resolução de conflitos;
-- Usando o Git direto no seu Visual Studio Code; 
+- Usando o Git direto no seu Visual Studio Code.
 
 ### -> Banco de dados - Modelagem e introdução ao SQL 
 
